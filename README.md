@@ -2,4 +2,4 @@
 
 claryfying the basic functions of GitHub.
 
-Some description.
+Some description!
